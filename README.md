@@ -11,6 +11,6 @@
 <li><code>$ git clone https://github.com/MrDebo/Geocoder</code></li>
 <li><code>$ cd Geocoder</code></li>
 <li><code>$ ls (huruf L&S kecil)</code></li>
-<li><code>$ python crack-fb.py</code></li>
+<li><code>$ python Geocoder.py</code></li>
 <br/>
 <img src="https://github.com/MrDebo/Geocoder/blob/main/Screenshot_2023-02-26-16-47-37-449_com.termux.jpg" />
