@@ -1,4 +1,4 @@
-### CARA INSTALL SCRIPT:
+### CARA INSTALL👇🏻
 
 <ul>
 <li><code>$ pkg update && pkg upgrade -y</code></li>
